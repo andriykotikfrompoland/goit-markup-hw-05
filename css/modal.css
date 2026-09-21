@@ -55,7 +55,7 @@
   align-items: center;
   justify-content: center;
 
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 50%;
 
   color: #2e2f42;
@@ -170,7 +170,7 @@
   line-height: 1.17;
   letter-spacing: 0.04em;
 
-  color: #2e2f42;
+  color: #434455;
   background-color: transparent;
 
   outline: transparent;
