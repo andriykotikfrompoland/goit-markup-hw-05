@@ -254,7 +254,6 @@
 }
 .modal-send-btn {
   display: block;
-
   min-width: 169px;
   height: 56px;
 
@@ -271,6 +270,8 @@
 
   color: #ffffff;
   background-color: #4d5ae5;
+
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 
   cursor: pointer;
 
