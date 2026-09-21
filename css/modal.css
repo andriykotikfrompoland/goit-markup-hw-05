@@ -82,7 +82,7 @@
 }
 
 .modal-close-icon {
-  fill: currentColor;
+  color: currentColor;
 }
 .modal-title {
   margin-bottom: 16px;
